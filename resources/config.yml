@@ -1,0 +1,14 @@
+###########
+anticapslock: true
+mincaps: 5
+###########
+antiswearing: true
+swearwords:
+  - idiot
+  - fucking
+  - asshole
+##########
+antispamming: true
+delay: 4
+##########
+antiduplicate: true

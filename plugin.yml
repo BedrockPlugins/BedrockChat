@@ -1,0 +1,8 @@
+name: BedrockChat
+authors:
+  - benjamin.
+  - BedrockPlugins
+description: Simple chat moderator for PocketMin-MP
+version: 1.1.0
+api: 3.2.0
+main: BedrockPlugins\BedrockChat\BedrockChat
